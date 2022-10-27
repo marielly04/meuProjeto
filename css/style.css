@@ -1,0 +1,25 @@
+.container{
+    background-color: #000;
+    width: 900px;
+}
+
+.nav{
+    background-color: #fff;
+}
+
+.nav-link{
+    color: #fff;
+    font-style: bold;
+    text-decoration: none;
+}
+
+article{
+    background-color: #000;
+    color:  #fff;;
+    padding: 1rem;
+}
+
+footer p{
+    text-align: center;
+    color: #fff;
+}
