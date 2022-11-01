@@ -1,0 +1,27 @@
+.container{
+    background-color: #000;
+    width: 900px;
+}
+
+.nav{
+    padding: 1px;
+    background-color: #708090;
+}
+
+.nav-link{
+    padding: 0.8rem;
+    color: #fff;
+    font-style: bold;
+    text-decoration: none; 
+}
+
+article{
+    background-color: #000;
+    color:  #fff;;
+    padding: 0.8rem;
+}
+
+footer p{
+    text-align: center;
+    color: #fff;
+}
